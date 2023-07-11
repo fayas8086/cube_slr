@@ -1,0 +1,49 @@
+.guid{
+    background: url('https://jooinn.com/images/blur-restaurant-3.png');
+    height: 100vh;
+}
+.guides-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    color: white;
+   
+
+  }
+  
+  .guides-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .guides-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .guides-container label {
+    margin-bottom: 10px;
+  }
+  
+  .guides-container input,
+  .guides-container select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .guides-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .guides-container button:hover {
+    background-color: #45a049;
+  }
+  
